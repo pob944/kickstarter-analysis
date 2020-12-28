@@ -1,10 +1,12 @@
-# Kickstarting with Excel
+# Kickstarting with Excel111
 
 ## Overview of Project
 This project uses all the kickstarters projects from 2014 to 2016 in the theater category.
 
 ### Purpose
-The purpose of this project analyzed and find out if there was a relation for each campaign launch during the year for the parent category “theater” and generate basic statistics for the subcategory “plays” for the parent category “theater”.
+The purpose of this project analyzed and find out if there was a relation for each campaign launch during the year for the parent category “theater” and generate basic statistics for the subcategory 
+
+“plays” for the parent category “theater”.
 
 
 ## Analysis and Challenges
