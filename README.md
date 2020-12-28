@@ -17,6 +17,7 @@ In this section, we analyze two charts that were generated from the file ÒKickst
 
 ### Analysis of Outcomes Based on Goals
 
+![Alt text](/resources/Theater_Outcomes_vs_Launch.png?raw=true "Optional Title")
 
 
 ### Challenges and Difficulties Encountered
