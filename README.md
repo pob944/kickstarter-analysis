@@ -19,11 +19,13 @@ The purpose of this project analyzed and find out if there was a relation for ea
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Based on the Launch Date, the most successful campaign was created around May and June.
+Based on the Launch Date, (1) the most successful campaign was created around May and June and (2) the average of failure is 41 during the year.
+
+
+- What can you conclude about the Outcomes based on Goals?
 
 Based on the Outcomes, the lower the expectation means usually a higher rate to achieve a successful result.
 
-- What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
