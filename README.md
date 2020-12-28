@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project uses all the kickstarters projects from 2014 to 2016 in the theater category from Australia, Canada, France, Great Britain, United States,
+This project uses all the kickstarters projects ranging from 2014 to 2016 in the theater category from Australia, Canada, France, Great Britain, United States,
 
 ### Purpose
 The purpose of this project analyzed and find out if there was a relation for each campaign launch during the year for the parent category theater and generate basic statistics for the subcategory 
@@ -20,7 +20,7 @@ In this section, we analyze two charts that were generated from the file ÒKickst
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Based on the Launch Date, (1) the most successful campaign was created around May and June and (2) the average of failure is 41 during the year.
+Based on the Launch Date, (1) the most successful campaigns were created around May and June and (2) the failure rate is steady at 41 across the year.
 
 
 - What can you conclude about the Outcomes based on Goals?
