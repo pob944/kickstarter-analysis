@@ -1,18 +1,14 @@
-# Kickstarting with Excel111
+# Kickstarting with Excel
 
 ## Overview of Project
 This project uses all the kickstarters projects from 2014 to 2016 in the theater category.
 
 ### Purpose
-The purpose of this project analyzed and find out if there was a relation for each campaign launch during the year for the parent category “theater” and generate basic statistics for the subcategory 
-
-“plays” for the parent category “theater”.
-
+The purpose of this project analyzed and find out if there was a relation for each campaign launch during the year for the parent category theater and generate basic statistics for the subcategory 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The most successful campaign were created around May and June.
 
 
 ### Analysis of Outcomes Based on Goals
@@ -22,6 +18,10 @@ The most successful campaign were created around May and June.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+Based on the Launch Date, the most successful campaign was created around May and June.
+
+Based on the Outcomes, the lower the expectation means usually a higher rate to achieve a successful result.
 
 - What can you conclude about the Outcomes based on Goals?
 
