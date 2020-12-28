@@ -11,6 +11,8 @@ In this section, we analyze two charts that were generated from the file ÒKickst
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Alt text](/resources/Outcomes_vs_Goals.png?raw=true "Optional Title")
+
 
 
 ### Analysis of Outcomes Based on Goals
