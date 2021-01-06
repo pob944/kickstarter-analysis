@@ -11,8 +11,7 @@ In this section, we analyze two charts that were generated from the file “Kick
 
 ### Analysis of Outcomes Based on Launch Date
 
-
-![Alt text](/resources/Outcomes_vs_Goals.png?raw=true "Optional Title")
+![Alt text](/resources/Theater_Outcomes_vs_Launch.png?raw=true "Optional Title")
 
 Base on 1,369 campaigns launched in the subcategory "play", 839 (61%) were successfull and 493 failed (36%). The mode is May and the Median is also May, but June is close at 100 successfull campaigns vs 111 for May.
 
@@ -21,7 +20,7 @@ The campaign can be done by using the radio, flyers and so on. In our case, the 
 
 ### Analysis of Outcomes Based on Goals
 
-![Alt text](/resources/Theater_Outcomes_vs_Launch.png?raw=true "Optional Title")
+![Alt text](/resources/Outcomes_vs_Goals.png?raw=true "Optional Title")
 
 The majority of the successfull are grouped in the [Less Than 1000], [1,000 to 4,999] and [5,000 to 9,999]. In order to help Louis, we need to focus on the range [10,000 to 14,999] since her target is 12,000. With that said, she will need to be diligent on her campaign since the rate of success is 54% and the rates of failes is 46%. The  conclusion of this charts is lowering the target seems to help the rate of sucess in meeting the campaign goal.
 
